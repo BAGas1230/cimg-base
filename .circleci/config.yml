@@ -143,4 +143,4 @@ jobs:
               docker push cimg/base:${VERSION}
               docker push cimg/base:${VERSION}-18.04
               docker push cimg/base:${VERSION}-20.04
-            fi
+            fi 
